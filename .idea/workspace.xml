@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05149821-9a73-40b9-96ca-7a4a4594bd23" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/solid/openclosed/badexample/CalculatorArea.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/solid/openclosed/badexample/Circle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/solid/openclosed/badexample/Rectangle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/solid/openclosed/goodexample/CalculatorArea.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/solid/openclosed/goodexample/Circle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/solid/openclosed/goodexample/Rectangle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/solid/openclosed/goodexample/Shape.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/solid/liskovsubstituition/badexample/CalculatorArea.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/solid/liskovsubstituition/badexample/Circle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/solid/liskovsubstituition/badexample/Rectangle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/solid/liskovsubstituition/goodexample/CalculatorArea.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/solid/liskovsubstituition/goodexample/Circle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/solid/liskovsubstituition/goodexample/Rectangle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/solid/liskovsubstituition/goodexample/Shape.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,22 +21,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Rectangle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/solid/openclosed/goodexample/Rectangle.java">
+      <file leaf-file-name="CalculatorArea.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/solid/liskovsubstituition/badexample/CalculatorArea.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state relative-caret-position="90">
+              <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
               <folding>
-                <element signature="e#170#171#0" expanded="true" />
-                <element signature="e#199#200#0" expanded="true" />
-                <element signature="e#243#244#0" expanded="true" />
-                <element signature="e#279#280#0" expanded="true" />
-                <element signature="e#311#312#0" expanded="true" />
-                <element signature="e#339#340#0" expanded="true" />
-                <element signature="e#381#382#0" expanded="true" />
-                <element signature="e#415#416#0" expanded="true" />
-                <element signature="e#466#467#0" expanded="true" />
-                <element signature="e#503#504#0" expanded="true" />
+                <element signature="e#140#141#0" expanded="true" />
+                <element signature="e#188#189#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -46,26 +39,32 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
               <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Circle.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/solid/liskovsubstituition/badexample/Circle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
               <folding>
-                <element signature="e#142#143#0" expanded="true" />
-                <element signature="e#171#172#0" expanded="true" />
-                <element signature="e#215#216#0" expanded="true" />
-                <element signature="e#251#252#0" expanded="true" />
-                <element signature="e#302#303#0" expanded="true" />
-                <element signature="e#360#361#0" expanded="true" />
+                <element signature="e#281#282#0" expanded="true" />
+                <element signature="e#339#340#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CalculatorArea.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/solid/openclosed/goodexample/CalculatorArea.java">
+      <file leaf-file-name="Rectangle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/solid/liskovsubstituition/badexample/Rectangle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="37" lean-forward="false" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+            <state relative-caret-position="300">
+              <caret line="28" column="40" lean-forward="true" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
               <folding>
-                <element signature="e#115#116#0" expanded="true" />
-                <element signature="e#159#160#0" expanded="true" />
+                <element signature="e#559#560#0" expanded="true" />
+                <element signature="e#606#607#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -104,6 +103,10 @@
         <option value="$PROJECT_DIR$/src/com/solid/openclosed/goodexample/Rectangle.java" />
         <option value="$PROJECT_DIR$/src/com/solid/openclosed/goodexample/Circle.java" />
         <option value="$PROJECT_DIR$/src/com/solid/openclosed/goodexample/CalculatorArea.java" />
+        <option value="$PROJECT_DIR$/src/com/solid/liskovsubstituition/goodexample/CalculatorArea.java" />
+        <option value="$PROJECT_DIR$/src/com/solid/liskovsubstituition/badexample/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/com/solid/liskovsubstituition/badexample/CalculatorArea.java" />
+        <option value="$PROJECT_DIR$/src/com/solid/liskovsubstituition/badexample/Circle.java" />
       </list>
     </option>
   </component>
@@ -159,6 +162,21 @@
               <item name="SOLID" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="solid" type="462c0819:PsiDirectoryNode" />
+              <item name="liskovsubstituition" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SOLID" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SOLID" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="solid" type="462c0819:PsiDirectoryNode" />
+              <item name="liskovsubstituition" type="462c0819:PsiDirectoryNode" />
+              <item name="badexample" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SOLID" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SOLID" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="solid" type="462c0819:PsiDirectoryNode" />
               <item name="openclosed" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -187,6 +205,12 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/solid/liskovsubstituition/goodexample" />
+      <recent name="$PROJECT_DIR$/src/com/solid/liskovsubstituition/badexample" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -246,12 +270,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1504469660568</updated>
-      <workItem from="1504469666048" duration="2387000" />
+      <workItem from="1504469666048" duration="2994000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2387000" />
+    <option name="totallyTimeSpent" value="2994000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -417,28 +441,94 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/solid/openclosed/goodexample/Circle.java">
+    <entry file="file://$PROJECT_DIR$/src/com/solid/liskovsubstituition.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding>
-            <element signature="e#142#143#0" expanded="true" />
-            <element signature="e#171#172#0" expanded="true" />
-            <element signature="e#215#216#0" expanded="true" />
-            <element signature="e#251#252#0" expanded="true" />
-            <element signature="e#302#303#0" expanded="true" />
-            <element signature="e#360#361#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="30">
+          <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/solid/liskovsubstituition/goodexample/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/solid/liskovsubstituition/goodexample/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/solid/liskovsubstituition/goodexample/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/solid/liskovsubstituition/goodexample/CalculatorArea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/solid/openclosed/goodexample/CalculatorArea.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="37" lean-forward="false" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding>
             <element signature="e#115#116#0" expanded="true" />
             <element signature="e#159#160#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/solid/liskovsubstituition/badexample/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="28" column="40" lean-forward="true" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
+          <folding>
+            <element signature="e#559#560#0" expanded="true" />
+            <element signature="e#606#607#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/solid/liskovsubstituition/badexample/CalculatorArea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding>
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#188#189#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/solid/openclosed/goodexample/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/solid/liskovsubstituition/badexample/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+          <folding>
+            <element signature="e#281#282#0" expanded="true" />
+            <element signature="e#339#340#0" expanded="true" />
           </folding>
         </state>
       </provider>
